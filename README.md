@@ -1,4 +1,4 @@
-# JIO TV PHP SERVER
+#  SERVER
 
 #### Just Install The Php Script.. Its Easy With Zero Configuration
 
@@ -7,14 +7,14 @@
 If You Don't Know JioID and Pass then Simply click on autologin button
 
 ### **How To Use :**
-#### For Help Join Telegram Group [t.me/jiotvphp](http://t.me/jiotvphp)
+#### For Help Join Telegram Group [t.me/tvphp](http://t.me/php)
 ####  For Phone-
 
 1. Install the Termux App from F-Droid [LINK](https://f-droid.org/repo/com.termux_117.apk "LINK")
 2. Run the Command-
 
         pkg install wget -y
-        wget https://raw.githubusercontent.com/soal001/jiotv/master/android.sh
+        wget https://raw.githubusercontent.com/Gaurav-gvk/aaaaaaa/master/android.sh
         sh android.sh
 
 3. Open Browser and go to the address displayed on termux. Eg. 192.168.0.10:8080
@@ -33,7 +33,7 @@ If You Don't Know JioID and Pass then Simply click on autologin button
 ####  For Linux -
 ##### Run The Following Commands
 
-    wget https://raw.githubusercontent.com/soal001/jiotv/master/jiotv.sh
+    wget https://raw.githubusercontent.com/Gaurav-gvk/aaaaaaa/master/jiotv.sh
     sudo sh jiotv.sh
 1. Open Browser and go to the address displayed on teminal. Eg. 192.168.0.10:8080
 2. If your pc/raspberry pi is connected to jio network click on Try AutoLogin Button or else use your jio email-id and password to login
